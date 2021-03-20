@@ -1,6 +1,6 @@
 package proiect;
 /**
- * 
+ * @author Marian,Hara
  * Iteratorul pentru fructe
  *
  */
@@ -12,8 +12,8 @@ public class FruitsIterator implements Iterator
 	Fruits fruitsList[];
 	int pos = 0;
 	/**
-	 * Constructorul pentru FuitIterator
-	 * 
+	 * Constructor pentru FruitsIterator
+	 * @param fru va contine lista de obiecte prin care iteram
 	 */
 	public FruitsIterator (Fruits fru[])
 	{

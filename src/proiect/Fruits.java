@@ -1,6 +1,6 @@
 package proiect;
 /**
- * 
+ * @author Marian,Hara
  * Clasa Fruits care construieste obiecete de tipul fructe
  *
  */
@@ -11,7 +11,8 @@ public class Fruits{
 	
 	/**
 	 * 
-	 * Constructor cu argument
+	 * @param f valoarea cu care se initializeaza obiectul
+	 * Constructor cu argumente 
 	 */
 	
 	public Fruits(String f)
@@ -21,7 +22,7 @@ public class Fruits{
 	
 	/**
 	 * 
-	 * Functie preluarea fruct
+	 * @return returneaza fructul
 	 */
 	
 	public String getFruits()
