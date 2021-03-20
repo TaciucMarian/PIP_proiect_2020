@@ -18,6 +18,9 @@ public class FruitsProduct implements Product {
 	/**
 	 * Constructorul fara argumente care adauga obiecte de tip fruits in array
 	 */
+	public int getMax(){
+		return MAX_FRU;
+	}
 	public FruitsProduct()
 	{
 		/**
