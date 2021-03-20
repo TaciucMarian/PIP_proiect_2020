@@ -9,7 +9,7 @@ public class VegetablesStock {
 	
 	public void printVegetables()
 	{
-		Iterator iterator=vegetables.createIterator();
+		Iterator iterator = vegetables.createIterator();
 		System.out.println("---------Vegetables STOCK----------");
 		while(iterator.hasNext())
 		{
