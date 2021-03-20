@@ -7,12 +7,12 @@ package proiect;
  */
 public class FruitsProduct implements Product {
 	/**
-	 * @param MAX_FRU  este o constanta care desemneaza dimensiunea maxima a array-ului
+	 *  MAX_FRU  este o constanta care desemneaza dimensiunea maxima a array-ului
 	 */
 	static final int MAX_FRU= 7;
 	int index=0; // nr de fructe adaugate
 	/**
-	 * @param fruitsList este un array care contine obiecte de tipul Fruits
+	 * fruitsList este un array care contine obiecte de tipul Fruits
 	 */
 	Fruits[] fruitsList;
 	/**

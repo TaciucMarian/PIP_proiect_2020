@@ -13,7 +13,7 @@ public class FruitsIterator implements Iterator
 	int pos = 0;
 	/**
 	 * Constructor pentru FruitsIterator
-	 * @param fru va contine lista de obiecte prin care iteram
+	 * @param fru[] va contine lista de obiecte prin care iteram
 	 */
 	public FruitsIterator (Fruits fru[])
 	{

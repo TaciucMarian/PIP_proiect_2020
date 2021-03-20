@@ -6,13 +6,13 @@ package proiect;
  */
 public class FruitsStock {
 	/**
-	 * @param fruits un obiect care contine informatiile clasei FruitsProduct unde 
+	 *  fruits un obiect care contine informatiile clasei FruitsProduct unde 
 	 *  se gaseste array-ul cu fructe
 	 */
 	FruitsProduct fruits;
 	/**
 	 * Constructorul clasei FruitsStock care are ca argument un obiect de tip FruitsProduct
-	 * @param fruits
+	 * @param fruits obiect de tipul Fruicts Product
 	 */
 	public FruitsStock(FruitsProduct fruits)
 	{
