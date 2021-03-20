@@ -23,6 +23,8 @@ public class FruitsProductTest {
 	@Test
 	public void testCreateIterator() {
 		FruitsProduct fp=new FruitsProduct();
+		assertEquals(fp.fruitsList, );
+		
 		
 	}
 

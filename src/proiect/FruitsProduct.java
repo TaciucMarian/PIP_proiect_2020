@@ -56,7 +56,6 @@ public class FruitsProduct implements Product {
 	@Override
 	public Iterator createIterator() {
 		
-		return new FruitsIterator(fruitsList);
 	}
 	
 
